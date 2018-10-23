@@ -1,0 +1,12 @@
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\bin\iPhone\Debug\Tasky.exe
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\bin\iPhone\Debug\Tasky.pdb
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\optimized\
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\TaskyiOS.csprojAssemblyReference.cache
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\TaskyiOS.csproj.CoreCompileInputs.cache
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\Tasky.exe
+C:\Users\mibaker\Desktop\mobile-samples-master\mobile-samples-master\Tasky\TaskyiOS\obj\iPhone\Debug\Tasky.pdb
